@@ -20,8 +20,9 @@ This repository contains a **simple Flask application** that is manually deploye
 
 ## Setup & Deployment
 
-1. **Clone the repository**
+
 ```bash
+## Clone the repository
 git clone https://github.com/<your-username>/flask-ec2-deploy.git
 cd flask-ec2-deploy
 
