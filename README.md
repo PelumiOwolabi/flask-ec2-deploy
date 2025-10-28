@@ -23,7 +23,7 @@ This repository contains a **simple Flask application** that is manually deploye
 
 ```bash
 ## Clone the repository
-git clone https://github.com/PelumiOwolabi/flask-ec2-deploy.git
+git clone https://github.com/your-github-username/flask-ec2-deploy.git
 cd flask-ec2-deploy
 
 ## Build the Docker image
