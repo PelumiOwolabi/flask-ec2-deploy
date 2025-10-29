@@ -1,5 +1,9 @@
 # Flask EC2 Deploy
 
+```markdown
+![Architecture Diagram](architecture.png)
+```
+
 This repository contains a **simple Flask application** that is manually deployed to an **AWS EC2 instance** using Docker.
 
 ## Features
@@ -36,7 +40,4 @@ docker run -d -p 5000:5000 flask-app
 Open your browser and navigate to:
 http://18.135.45.212:5000
 ```
-
-```markdown
-![Architecture Diagram](https://github.com/PelumiOwolabi/flask-ec2-deploy/blob/main/architecture.png?raw=true)
 
